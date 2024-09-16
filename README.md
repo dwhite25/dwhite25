@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Derek, a Data Science PhD student at Chapman University in Orange, CA, USA. 
-- I will be using machine learning to predict qubit spins for quantum computers.
+- I conduct research into superoscillations - local wave frequencies that are faster than the wave's actual bandlimits - and their applications in superresolution and imaging in radar and optics.
 - I formerly attendedd and conducted research in gravitational-wave astrophysics at Califronia State University, Fullerton.
 - 👀 I’m interested in data science, machine learning, and their applications in physics-based research.
 - 📫 How to reach me: derwhite@chapman.edu, derekdwhite25@gmail.com

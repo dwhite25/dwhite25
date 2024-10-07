@@ -3,7 +3,7 @@
 - I formerly attendedd and conducted research in gravitational-wave astrophysics at Califronia State University, Fullerton.
 - 👀 I’m interested in data science, machine learning, and their applications in physics-based research.
 - I come with both experience in and a love for building generative deep neural networks.
-- 📫 How to reach me: derwhite@chapman.edu, derekdwhite25@gmail.com
+- 📫 How to reach me: derwhite@chapman.edu
 
 <!---
 dwhite25/dwhite25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

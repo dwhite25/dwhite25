@@ -1,8 +1,23 @@
-- 👋 Hi, I’m Derek, a PhD student in Computational and Data Sciences at Chapman University in Orange, CA, USA. 
-- I conduct research in superoscillations - local signal frequencies that are faster than the signal's fastest Fourier component - and their applications in superresolution and imaging in radar and optics.
-- I formerly attended and conducted research in gravitational-wave astrophysics at Califronia State University, Fullerton, where I received my bachelor's and master's degrees in Physics.
-- I have a love for data science, machine learning, and their applications in physics-based research.
-- 📫 How to reach me: derwhite@chapman.edu
+Computational Physicist | Scientific Machine Learning | Signal Processing & Statistical Inference
+
+PhD candidate in Computational and Data Sciences at Chapman University, graduating December 2026. My research focuses on extracting information from noisy physical measurements using statistical estimation, Fourier/signal-processing methods, simulation, and machine learning. Previous research includes gravitational-wave astrophysics and generative modeling for LIGO-related numerical simulations.
+
+Current research: sub-resolution sensing and parameter identifiability, statistical estimation, Fisher information, signal processing.
+Previous research: gravitational-wave astrophysics, scientific data pipelines, generative neural networks.
+Interested in: scientific ML, space/planetary science, remote sensing, astrophysics, signal processing.
+
+CV/Resume: 
+<link>
+
+LinkedIn: 
+https://www.linkedin.com/in/derek-white-1443a763
+
+Publications:
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.L061502
+
+Email:
+derwhite@chapman.edu
+derekdwhite25@gmail.com
 
 <!---
 dwhite25/dwhite25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
